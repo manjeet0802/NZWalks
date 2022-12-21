@@ -12,6 +12,7 @@
 
         // Navigation Property
         // hello world
+        // git commit
         public IEnumerable<Walk> Walks { get; set; }
     }
 }
